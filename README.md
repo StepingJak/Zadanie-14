@@ -3,6 +3,6 @@ Następnie należy stworzyć tabelę w HTML z tagiem <thead> definicującym kolu
 Finalnie w skrypcie definiujemy stałą której wartościa jest instancja tabeli w HTML i definiujemy wszelakie właściwości (kolumny, przyciski)  
 W aplikacji wykorzystane zostały funkcje:  
  -.on("click" "przycisk", funkcja)  
- -prompt("wiadomość", zmienna)
- -.draw()
+ -prompt("wiadomość", zmienna)  
+ -.draw()  
  -.row, .parents, ,.data
